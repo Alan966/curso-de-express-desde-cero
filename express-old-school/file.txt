@@ -1,0 +1,19 @@
+Mi archivo
+
+Que son los middlewares 
+-Es una funcion que se ejecuta entre la peticion (request) y la respuesta (response) 
+de tu servidor 
+-Puede ejecutarse antes o despues de llegar al controlador
+
+Caracteristicas de los middlewares 
+
+-Apilables 
+-Manejan objetos principales 
+-Especificos 
+-Usables
+
+Tipos de Middlewares 
+-Nivel de aplicacion 
+-Nivel de ruta 
+-Manejador de errores 
+-Middlewares de terceros
